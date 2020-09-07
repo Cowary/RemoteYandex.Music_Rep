@@ -21,6 +21,7 @@ public class Main {
     InetAddress thisIP;
 
     public static void main(String[] args) {
+        System.out.println("kek");
         Main m = new Main();
         while (true){
             m.startServer();
