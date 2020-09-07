@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RemoteYandex.Music">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RemoteYandex.Music/out/artifacts/RemoteYandex_Music_jar/RemoteYandex.Music.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
